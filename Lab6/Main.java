@@ -1,3 +1,10 @@
+// Не до конца сделан!!!!!!
+
+
+
+
+
+
 package ru.mirea.lab6;
 
 import java.awt.Dimension;
